@@ -1,0 +1,9 @@
+{
+  "name": "NOVA EDITOR AI",
+  "description": "All-in-One Professional Photo, Video & Audio Editing Studio with Gemini AI creative tools, multi-track master timeline, and offline mode.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

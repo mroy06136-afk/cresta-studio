@@ -1,0 +1,19 @@
+{
+  "name": "NOVA EDITOR AI",
+  "short_name": "NOVA AI",
+  "description": "All-in-One Professional Photo, Video & Audio Editing Application",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#07070d",
+  "theme_color": "#0b0b14",
+  "categories": ["photo", "video", "multimedia", "productivity"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
